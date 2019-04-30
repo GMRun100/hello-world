@@ -1,9 +1,16 @@
 renbenliu
 renbenliu
 
-<<<<<<< HEAD
+
 liumingyuan add a string 
-=======
+
 add string by GM 
 
-del >>>>>>>>>>>>
+
+add string by Benliu
+
+add string by GM 
+
+add string by LMY
+
+
